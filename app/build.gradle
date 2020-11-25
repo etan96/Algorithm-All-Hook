@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion '25.0.2'
     defaultConfig {
-        applicationId "com.etan96.autooutput"
+        applicationId "com.etan96.all_hook"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
